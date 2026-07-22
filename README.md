@@ -1,7 +1,7 @@
-#Hello Techies!
-I'm Vrusha Patel
-Computer Enginner Student
-💫 About Me:
+#Hello Techies!<br>
+I'm Vrusha Patel<br>
+Computer Enginner Student<br>
+💫 About Me:<br>
 🔭 I’m currently working on IoT based project Smart Car Parking System <br>👯 I’m looking to collaborate on any software project <br>🌱 I’m currently learning Python and C#<br>💬 Ask me about C,C++,HTML,CSS<br>⚡ Fun fact Music is my coding companion and I know more than 3 language and a book worm 
 
 
